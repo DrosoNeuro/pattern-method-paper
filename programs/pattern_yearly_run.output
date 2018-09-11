@@ -36,7 +36,7 @@ waves_adjust:
 
 max and min of predicted values ref to MLLW are 2.63 and -0.7 
 
-max and min of predicted values ref to MSL are 1.5 and -1.83 
+max and min of predicted values ref to MSL are 1.5 and -1.8299999999999998 
 
  
 The number of waves found was: 1 
@@ -57,15 +57,15 @@ totalnumber is: 526563
 
 chist[0] is (matches totalnumber): 526563.0 
 
-mean(MLLW) and standard deviation of pdf are 1.16003540887 and 0.63440761522 
+mean(MLLW) and standard deviation of pdf are 1.1600354088684544 and 0.634407615220351 
 
-mean(MSL) and standard deviation of pdf are 0.0300354088685 and 0.63440761522 
+mean(MSL) and standard deviation of pdf are 0.03003540886845446 and 0.634407615220351 
 
 A used was: 9.547774 
 
-w0_MOF mean of G-method tide cumulative was: 0.179087275232 
+w0_MOF mean of G-method tide cumulative was: 0.17908727523241205 
 
-sigmap_MOF std of G-method tide cumulative was: 0.496085596269 
+sigmap_MOF std of G-method tide cumulative was: 0.4960855962685876 
 
 Gplot was: True 
 
